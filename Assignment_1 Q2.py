@@ -9,6 +9,6 @@ y2 = int(input("Enter the y coordinate of point 2 : "))
 print("The points entered by you are : ", "(",x1, " , ",y1, ") and ", "(",x2, " , ",y2, ")")
 
 distance = ((x2 - x1)**2 + (y2 - y1)**2)**(1/2)
-didtance = float(distance)
+distance = float(distance)
 
 print("The distance between the above two points is : ", distance, " units") 
