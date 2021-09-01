@@ -1,0 +1,6 @@
+print("\n")
+string = input("Enter a word or sentence : ")
+print("\n")
+print("Without converting : ", string)
+print("After converting : ", string.swapcase())
+print("\n")
